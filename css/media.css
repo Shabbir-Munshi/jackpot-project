@@ -1,0 +1,1123 @@
+/*========================= X-Large devices ========================= */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+	/* Banner part start here  */
+	.banner_img img {
+		position: static;
+	}
+
+	/* Banner part end here  */
+	/* Game part start here  */
+	.img_overlay_text h3 {
+		padding: 120px 0px 40px 0px;
+	}
+
+	/* Game part end  here  */
+	/* Pricing part start here  */
+	.pricing_heading h3 {
+		padding-top: 50px;
+	}
+
+	/* Pricing part end here  */
+	/* Faq part start here  */
+	.accordion-button::before {
+		right: 20px;
+	}
+
+	/* Faq part end here  */
+	/* Subscribe part start here  */
+	.subscribe form input {
+		width: 88%;
+	}
+
+	/* Subscribe part end here  */
+	/* Footer part start here  */
+	.about_jackpot p {
+		width: auto;
+	}
+
+	/* Footer part end here  */
+}
+
+/*========================== Large devices ========================== */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+	/* Menu part start here  */
+	.navbar-brand img {
+		width: 200px;
+	}
+
+	.navbar-nav .nav-item {
+		padding: 0px 6px;
+	}
+
+	/* Menu part end here  */
+	/* Banner part start here  */
+	.banner_img img {
+		position: static;
+		transform: scale(1.3);
+		-webkit-transform: scale(1.3);
+		-moz-transform: scale(1.3);
+		-ms-transform: scale(1.3);
+		-o-transform: scale(1.3);
+	}
+
+	.banner_text h3 {
+		font-size: 312px;
+	}
+
+	.banner_text p {
+		width: auto;
+	}
+
+	/* Banner part end here  */
+	/* Game part start here  */
+	#game {
+		padding-bottom: 50px;
+	}
+
+	.img_overlay_text h3 {
+		padding: 100px 0px 40px 0px;
+	}
+
+	/* Game part end here  */
+	/* Pricing part start here  */
+	.pricing_heading h3 {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+
+	.pricing_plan_item .choose_btn {
+		font-size: 18px;
+		bottom: -25px;
+	}
+
+	/* Pricing part end here  */
+	/* Faq part start here  */
+	.accordion-item {
+		padding-left: 0px;
+	}
+
+	.accordion-button {
+		font-size: 18px;
+	}
+
+	.accordion-button::before {
+		right: 30px;
+	}
+
+	/* Faq part end here  */
+	/* tournament part start here  */
+	.time_remain p {
+		padding-top: 58px;
+		font-size: 14px;
+	}
+
+	/* tournament part end here  */
+	/* subscribe and payment part start here  */
+	.subscribe form input {
+		width: 86%;
+	}
+
+	/* subscribe and payment part end here  */
+	/* Footer part start here  */
+	.about_jackpot p {
+		width: auto;
+	}
+
+	.shield_text p,
+	.dollar_text p {
+		padding-top: 5px;
+		line-height: 20px;
+	}
+
+	/* Footer part end here  */
+}
+
+/*========================== Medium devices ========================== */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+	/* Menu part start  */
+	.navbar {
+		background: #000;
+		padding-bottom: 20px;
+	}
+
+	.navbar-toggler {
+		border-color: transparent;
+		outline: 0 !important;
+		margin-top: 50px;
+		box-shadow: none;
+		border: 2px solid #fff;
+	}
+
+	.navbar-toggler i {
+		font-size: 26px;
+		color: #fff;
+	}
+
+	.navbar-toggler:focus {
+		box-shadow: none;
+	}
+
+	.navbar-nav {
+		margin-top: 20px !important;
+		text-align: center;
+	}
+
+	.navbar-nav .nav-link {
+		font-size: 24px;
+	}
+
+	.navbar-nav .nav-link:hover {
+		background: #46037e;
+	}
+
+	.menu_btn {
+		margin-top: 25px;
+		text-align: center;
+	}
+
+	/* Menu part end here  */
+	/* Banner part start here  */
+	#banner {
+		padding-top: 130px;
+		padding-bottom: 160px;
+	}
+
+	.banner_img img {
+		position: static;
+		transform: scale(.8);
+		-webkit-transform: scale(.8);
+		-moz-transform: scale(.8);
+		-ms-transform: scale(.8);
+		-o-transform: scale(.8);
+	}
+
+	.banner_text h5 {
+		padding-left: 115px;
+	}
+
+	.banner_text h3 {
+		font-size: 330px;
+		text-align: center;
+	}
+
+	.banner_text p {
+		padding-top: 20px;
+		width: auto;
+	}
+
+	/* Banner part end here  */
+	/* register & get_ready & enjoy part start here */
+	.register_full {
+		clip-path: none;
+		height: none;
+		background: red;
+		position: relative;
+		top: -112px;
+	}
+
+	/* register & get_ready & enjoy part end here */
+	/* Game part start  here  */
+	#game {
+		padding-bottom: 60px;
+		padding-top: 425px;
+	}
+
+	.game_heading h3 {
+		font-size: 40px;
+	}
+
+	/* Game part end  here  */
+	/* Unlock spin part start here  */
+	#unlock_spin {
+		padding-top: 60px;
+		padding-bottom: 30px;
+	}
+
+	.unlock_spin_text h3 {
+		font-size: 40px;
+		text-align: center;
+		padding-top: 20px;
+	}
+
+	.unlock_spin_text p {
+		padding-top: 50px;
+	}
+
+	/* Unlock spin part end here  */
+	/* Pricing part start here  */
+	.pricing_heading h3 {
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+
+	.choose_btn {
+		font-size: 18px;
+		bottom: -25px;
+	}
+
+	/* Pricing part end here  */
+	/* Faq part start here  */
+	#faq_tournament {
+		padding: 40px 0px;
+	}
+
+	.faq_heading h3 {
+		font-size: 40px;
+		text-align: center;
+	}
+
+	.accordion {
+		margin-top: 20px;
+	}
+
+	.accordion-item {
+		padding-left: 0px;
+	}
+
+	.accordion-button {
+		font-size: 20px;
+		line-height: 26px;
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+
+	.accordion-button::before {
+		right: 20px;
+		top: 25px;
+	}
+
+	.accordion-body {
+		padding-right: 5px;
+	}
+
+	.accordion-body p {
+		font-size: 16px;
+	}
+
+	/* Faq part end here  */
+	/* tournament part start here  */
+	.tournament_heading h3 {
+		font-size: 40px;
+		padding-top: 30px;
+		text-align: center;
+	}
+
+	.participant_name h6,
+	.amount p {
+		font-size: 14px;
+	}
+
+	/* tournament part end here  */
+	/* payment and subscribe part start here  */
+	.subscribe h3 {
+		font-size: 28px;
+		padding-bottom: 20px;
+	}
+
+	.subscribe form input {
+		width: 84%;
+	}
+
+	.payment h3 {
+		font-size: 28px;
+		padding-bottom: 25px;
+		padding-top: 20px;
+	}
+
+	.subscribe form button {
+		border-left: none;
+		right: 61px;
+	}
+
+	/* payment and subscribe part end here  */
+	/* Footer part start here  */
+	.about_jackpot h3 {
+		font-size: 26px;
+	}
+
+	.about_jackpot p {
+		font-size: 15px;
+		width: auto;
+	}
+
+	.important_links h3 {
+		font-size: 26px;
+	}
+
+	.left_side_link p a,
+	.right_side_link a {
+		font-size: 13px;
+	}
+
+	.squrity_info h3 {
+		font-size: 26px;
+	}
+
+	.shield_text p,
+	.dollar_text p {
+		font-size: 12px;
+		padding-top: 0px;
+		line-height: 20px;
+	}
+
+	/* Footer part end here  */
+}
+
+/*============================= Small devices  =============================*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	/* Menu part start  */
+	.navbar {
+		background: #000;
+		padding-bottom: 20px;
+	}
+
+	.navbar-brand img {
+		width: 200px;
+	}
+
+	.navbar-toggler {
+		border-color: transparent;
+		outline: 0 !important;
+		margin-top: 50px;
+		box-shadow: none;
+		border: 2px solid #fff;
+	}
+
+	.navbar-toggler i {
+		font-size: 26px;
+		color: #fff;
+	}
+
+	.navbar-toggler:focus {
+		box-shadow: none;
+	}
+
+	.navbar-nav {
+		margin-top: 20px !important;
+		text-align: center;
+	}
+
+	.navbar-nav .nav-link:hover {
+		background: #46037e;
+	}
+
+	.menu_btn {
+		margin-top: 25px;
+		text-align: center;
+	}
+
+	/* Menu part end here  */
+	/* Banner part start here  */
+	#banner {
+		padding-top: 170px;
+		padding-bottom: 160px;
+	}
+
+	.banner_img img {
+		position: static;
+		transform: scale(1);
+		-webkit-transform: scale(1);
+		-moz-transform: scale(1);
+		-ms-transform: scale(1);
+		-o-transform: scale(1);
+	}
+
+	.banner_text h5 {
+		padding-top: 20px;
+	}
+
+	.banner_text h3 {
+		font-size: 200px;
+		text-align: center;
+	}
+
+	.banner_text p {
+		padding-top: 20px;
+		width: auto;
+	}
+
+	/* Banner part end here  */
+	/* register & get_ready & enjoy part start here */
+	.register_full {
+		clip-path: none;
+		height: none;
+		background: red;
+		position: relative;
+		top: -112px;
+	}
+
+	/* register & get_ready & enjoy part end here */
+	/* Game part start  here  */
+	#game {
+		padding-bottom: 60px;
+		padding-top: 425px;
+	}
+
+	.game_heading h3 {
+		font-size: 36px;
+	}
+
+	/* Game part end  here  */
+	/* Unlock spin part start here  */
+	#unlock_spin {
+		padding-top: 60px;
+		padding-bottom: 30px;
+	}
+
+	.unlock_spin_text h3 {
+		font-size: 36px;
+		text-align: center;
+		padding-top: 20px;
+	}
+
+	.unlock_spin_text p {
+		padding-top: 50px;
+	}
+
+	/* Unlock spin part end here  */
+	/* Pricing part start here  */
+	.pricing_heading h3 {
+		font-size: 36px;
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+
+	.choose_btn {
+		font-size: 18px;
+		bottom: -25px;
+	}
+
+	/* Pricing part end here  */
+	/* Faq part start here  */
+	#faq_tournament {
+		padding: 40px 0px;
+	}
+
+	.faq_heading h3 {
+		font-size: 36px;
+		text-align: center;
+	}
+
+	.accordion {
+		margin-top: 20px;
+	}
+
+	.accordion-item {
+		padding-left: 0px;
+	}
+
+	.accordion-button {
+		font-size: 14px;
+		line-height: 26px;
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+
+	.accordion-button::before {
+		right: 20px;
+		top: 25px;
+	}
+
+	.accordion-body {
+		padding-right: 5px;
+	}
+
+	.accordion-body p {
+		font-size: 14px;
+	}
+
+	/* Faq part end here  */
+	/* tournament part start here  */
+	.tournament_heading h3 {
+		font-size: 36px;
+		padding-top: 30px;
+		text-align: center;
+	}
+
+	.participant_name h6,
+	.amount p {
+		font-size: 14px;
+	}
+
+	/* tournament part end here  */
+	/* payment and subscribe part start here  */
+	.subscribe h3 {
+		font-size: 28px;
+		padding-bottom: 20px;
+	}
+
+	.subscribe form input {
+		width: 78%;
+	}
+
+	.payment h3 {
+		font-size: 28px;
+		padding-bottom: 25px;
+		padding-top: 20px;
+	}
+
+	.subscribe form button {
+		border-left: none;
+		right: 61px;
+	}
+
+	/* payment and subscribe part end here  */
+	/* Footer part start here  */
+	#footer {
+		padding: 30px 0px;
+	}
+
+	.about_jackpot {
+		text-align: center;
+		padding-bottom: 20px;
+		border-bottom: 2px solid #3c3940;
+	}
+
+	.about_jackpot h3 {
+		font-size: 28px;
+	}
+
+	.about_jackpot p {
+		width: auto;
+	}
+
+	.important_links h3 {
+		font-size: 28px;
+		padding-top: 40px;
+		text-align: center;
+		padding-bottom: 30px;
+	}
+
+	.left_side_link {
+		text-align: center;
+	}
+
+	.squrity_info {
+		border-top: 2px solid #3c3940;
+	}
+
+	.squrity_info h3 {
+		font-size: 28px;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		text-align: center;
+	}
+
+	.shield_icon {
+		text-align: right;
+	}
+
+	.dollar_bage {
+		text-align: right;
+	}
+
+	.shield_text p,
+	.dollar_text p {
+		text-align: center;
+		line-height: 26px;
+	}
+
+	/* Footer part end here */
+}
+
+/*======================= X-Small devices =======================*/
+@media (max-width: 575.98px) {
+
+	/* Menu part start  */
+	.navbar {
+		background: #000;
+		padding-bottom: 20px;
+	}
+
+	.navbar-brand img {
+		width: 200px;
+	}
+
+	.navbar-toggler {
+		border-color: transparent;
+		outline: 0 !important;
+		margin-top: 50px;
+		box-shadow: none;
+		border: 2px solid #fff;
+	}
+
+	.navbar-toggler i {
+		font-size: 26px;
+		color: #fff;
+	}
+
+	.navbar-toggler:focus {
+		box-shadow: none;
+	}
+
+	.navbar-nav {
+		margin-top: 20px !important;
+		text-align: center;
+	}
+
+	.navbar-nav .nav-link:hover {
+		background: #46037e;
+	}
+
+	.menu_btn {
+		margin-top: 25px;
+		text-align: center;
+	}
+
+	/* Menu part end here  */
+	/* Banner part start here  */
+	#banner {
+		padding-top: 170px;
+		padding-bottom: 160px;
+	}
+
+	.banner_img img {
+		position: static;
+		transform: scale(1);
+		-webkit-transform: scale(1);
+		-moz-transform: scale(1);
+		-ms-transform: scale(1);
+		-o-transform: scale(1);
+	}
+
+	.banner_text h5 {
+		padding-top: 20px;
+	}
+
+	.banner_text h3 {
+		font-size: 200px;
+		text-align: center;
+	}
+
+	.banner_text p {
+		padding-top: 20px;
+		width: auto;
+	}
+
+	/* Banner part end here  */
+	/* register & get_ready & enjoy part start here */
+	.register_full {
+		clip-path: none;
+		height: none;
+		background: red;
+		position: relative;
+		top: -112px;
+	}
+
+	/* register & get_ready & enjoy part end here */
+	/* Game part start here  */
+	#game {
+		padding-bottom: 60px;
+		padding-top: 425px;
+	}
+
+	.game_heading h3 {
+		font-size: 28px;
+	}
+
+	.img_overlay_text h3 {
+		padding: 160px 0px 20px 0px;
+	}
+
+	/* Game part end  here  */
+	/* Unlock spin part start here  */
+	#unlock_spin {
+		padding-top: 60px;
+		padding-bottom: 30px;
+	}
+
+	.unlock_spin_text h3 {
+		font-size: 36px;
+		text-align: center;
+		padding-top: 20px;
+	}
+
+	.unlock_spin_text p {
+		padding-top: 50px;
+	}
+
+	/* Unlock spin part end here  */
+	/* Pricing part start here  */
+	.pricing_heading h3 {
+		font-size: 28px;
+		padding-top: 40px;
+		padding-bottom: 30px;
+	}
+
+	.choose_btn {
+		font-size: 18px;
+		bottom: -25px;
+	}
+
+	/* Pricing part end here  */
+	/* Faq part start here  */
+	#faq_tournament {
+		padding: 40px 0px;
+	}
+
+	.faq_heading h3 {
+		font-size: 28px;
+	}
+
+	.accordion {
+		margin-top: 20px;
+	}
+
+	.accordion-item {
+		padding-left: 0px;
+	}
+
+	.accordion-button {
+		font-size: 14px;
+		line-height: 26px;
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+
+	.accordion-button::before {
+		right: 0;
+		top: 25px;
+	}
+
+	.accordion-body {
+		padding-right: 5px;
+	}
+
+	.accordion-body p {
+		font-size: 14px;
+	}
+
+	/* Faq part end here  */
+	/* tournament part start here  */
+	.tournament_heading h3 {
+		font-size: 28px;
+		padding-top: 30px;
+		text-align: center;
+	}
+
+	.participant_name h6,
+	.amount p {
+		font-size: 14px;
+	}
+
+	/* tournament part end here  */
+	/* payment and subscribe part start here  */
+	.subscribe h3 {
+		font-size: 28px;
+		padding-bottom: 20px;
+	}
+
+	.subscribe form input {
+		width: 78%;
+	}
+
+	.payment h3 {
+		font-size: 28px;
+		padding-bottom: 25px;
+		padding-top: 20px;
+	}
+
+	.subscribe form button {
+		padding-left: 1px solid #3a0090 !important;
+	}
+
+	/* payment and subscribe part end here  */
+	/* Footer part start here  */
+	#footer {
+		padding: 30px 0px;
+	}
+
+	.about_jackpot {
+		text-align: center;
+		padding-bottom: 20px;
+		border-bottom: 2px solid #3c3940;
+	}
+
+	.about_jackpot h3 {
+		font-size: 28px;
+	}
+
+	.about_jackpot p {
+		width: auto;
+	}
+
+	.important_links h3 {
+		font-size: 28px;
+		padding-top: 40px;
+		text-align: center;
+		padding-bottom: 30px;
+	}
+
+	.left_side_link {
+		text-align: center;
+	}
+
+	.squrity_info {
+		border-top: 2px solid #3c3940;
+	}
+
+	.squrity_info h3 {
+		font-size: 28px;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		text-align: center;
+	}
+
+	.shield_icon {
+		text-align: right;
+	}
+
+	.dollar_bage {
+		text-align: right;
+	}
+
+	.shield_text p,
+	.dollar_text p {
+		text-align: center;
+		line-height: 22px;
+	}
+
+	/* Footer part end here */
+}
+
+/* ====================== Home page responsive css end here ============================= */
+
+/* ======================= About page responsive css start here ======================= */
+/*========================== Medium Devices ========================== */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+	/* Banner part start here  */
+	.common_banner_text h3 {
+		padding-top: 50px;
+	}
+
+	/* Banner part start here  */
+	/* about card part start here  */
+	#about_card {
+		background: #0b001b;
+		padding-top: 400px;
+		padding-bottom: 50px;
+	}
+
+	.a_unlock_spin_text a:last-child {
+		margin-top: 20px;
+	}
+
+	#about_game .img_overlay_text h3 {
+		padding: 100px 0px 20px 0px;
+	}
+
+	/* about card part end here  */
+}
+
+/*=========================== Small Devices =========================== */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	/* about card part start here  */
+	#about_card {
+		background: #0b001b;
+		padding-top: 400px;
+		padding-bottom: 50px;
+	}
+
+	.a_unlock_spin_text a:last-child {
+		margin-top: 20px;
+	}
+
+	/* about card part end here  */
+	/* Game part star here  */
+	#about_game {
+		padding-top: 30px;
+	}
+
+	.a_game_heading h3 {
+		font-size: 28px;
+	}
+
+	#about_game .img_overlay_text h3 {
+		padding: 75px 0px 20px 0px;
+	}
+
+	/* Game part end here  */
+}
+
+/*================= X-Small Devices================= */
+@media (max-width: 575.98px) {
+
+	/* about card part start here  */
+	#about_card {
+		background: #0b001b;
+		padding-top: 400px;
+		padding-bottom: 50px;
+	}
+
+	.a_unlock_spin_text a:last-child {
+		margin-top: 20px;
+	}
+
+	/* about card part end here  */
+	/* Game part star here  */
+	#about_game {
+		padding-top: 30px;
+	}
+
+	.a_game_heading h3 {
+		font-size: 28px;
+	}
+
+	#about_game .img_overlay_text h3 {
+		padding: 100px 0px 20px 0px;
+	}
+
+	/* Game part end here  */
+}
+
+/*===================== About page responsive css end here  =====================*/
+
+/*===================== Game page responsive css end here  =====================*/
+@media (max-width: 991.98px) {
+
+	/* Game part start here  */
+	#games_part {
+		padding-top: 370px;
+	}
+
+	/* Game part end here  */
+}
+
+/*===================== Game page responsive css end here  =====================*/
+/*===================== Membership plan page responsive css end here  =====================*/
+@media (max-width: 991.98px) {
+	#Membership_pricing {
+		padding-top: 380px;
+	}
+}
+
+/*===================== Membership plan page responsive css end here  =====================*/
+
+/*===================== Contact page responsive css end here  =====================*/
+/*==================== Large Devices ==================== */
+@media(min-width: 992px) and (max-width: 1199.98px) {
+	.item p {
+		font-size: 15px;
+	}
+
+	.loc_phm_mail {
+		padding-top: 200px;
+		padding-bottom: 50px;
+	}
+
+	.loc_phm_mail .contact_info {
+		padding-left: 30px;
+	}
+	.loc_phm_mail .contact_info h4 {
+		font-size: 20px;
+		padding-top: 10px;
+	}
+	.loc_phm_mail .contact_info p {
+		font-size: 16px;
+	}
+}
+
+/*=================== Medium Devices =================== */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.contact_reg_full {
+		clip-path: none;
+		height: none;
+		position: static;
+		margin-top: -80px;
+	}
+
+	.loc_phm_mail {
+		padding-top: 480px;
+		padding-bottom: 10px;
+	}
+}
+
+/*================== Small Devices ================== */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.contact_reg_full {
+		clip-path: none;
+		height: none;
+		position: static;
+		margin-top: -80px;
+	}
+
+	.loc_phm_mail {
+		padding-top: 480px;
+		padding-bottom: 10px;
+	}
+}
+
+/*================== X-small Devices ==================*/
+@media (max-width: 575.98px) {
+	.contact_reg_full {
+		clip-path: none;
+		height: none;
+		position: static;
+		margin-top: -80px;
+	}
+
+	.loc_phm_mail {
+		padding-top: 480px;
+		padding-bottom: 10px;
+	}
+
+	.loc_phm_mail .contact_info {
+		padding: 20px 0px 40px 0px;
+
+	}
+}
+/*===================== Contact page responsive css end here  =====================*/
+
+
+/*===================== Sign Up page responsive css end here  =====================*/
+/*=========================== X-Large Devices ============================ */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	.another_signup_away .signin p {
+		font-size: 14px;
+	}
+	.another_signup_away .register_with span {
+		font-size: 15px;
+	}
+}
+/*============================ Large Devices ============================ */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	#sign_up {
+		padding-bottom: 30px;
+	}
+	.signup_heading {
+		padding-bottom: 25px;
+	}
+	.big_win_img img {
+		position: static;
+	}
+}
+/*=================== X-Small Devices to Medium Devices =================== */
+@media (max-width: 991.98px) {
+	#sign_up {
+		padding-top: 338px;
+		padding-bottom: 40px;
+	}
+	.big_win_img {
+		padding: 70px 0px;
+	}
+	.big_win_img img {
+		position: static;
+	}
+}
+/*===================== Sign Up page responsive css end here  =====================*/
+
+
+/*===================== Login page responsive css end here  =====================*/
+/*=================== X-Small Devices to Medium Devices =================== */
+@media (max-width: 991.98px) {
+	.big_win_img_for_login{
+		padding: 50px 0px 30px 0px;
+	}
+}
+/*===================== Login page responsive css end here  =====================*/
